@@ -8,6 +8,6 @@ Néhány megjegyzés a projekttel kapcsolatban:
 
 -A kód kivétel kezelést illetve "bevitt adat" kezelést nem vagy csak alig tartalmaz.
 
--A GitHub-al is meggyűlt a bajom, eddig csak a push, pull, commit stb... szinten használtam saját repository-t még nem csináltam, szóval nem lehet megnyitni rendesen a clone után (vagy csak én nem tudom), minden esetre a kódot így is lehet böngészni.
+-A GitHub-al is meggyűlt a bajom, eddig csak a push, pull, commit stb... szinten használtam saját repository-t még nem csináltam, szóval nem lehet megnyitni rendesen a clone után (most már tudom, az eclipsben Importálni kell... ).
 
 -írtam néhány sql queryt, van benne egy kis JS, de biztos vagyok benne, hogy ezt nem így kell csinálni :), ha van ötlet, hogy mit gyakoroljak vagy nézzek át jobban  akkor légyszíves írjatok.
